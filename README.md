@@ -1,4 +1,4 @@
-# ZS-Campus-Beats-Case-Challenge-2020
+# ZS-Campus-Beats-Case-Challenge-2021
 
 ## The case study was divided into three different scenarios:
 
